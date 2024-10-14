@@ -1,0 +1,109 @@
+INFO:root:Log this line of execution
+INFO:root:This is my print
+WARNING:root:This is my warning message
+WARNING:root:This is my warning message
+ERROR:root:This is my error
+CRITICAL:root:This is my critical
+INFO:root:This is my info logging
+ERROR:root:This is my error msg
+CRITICAL:root:This is my critical
+INFO:root:This is my info logging
+ERROR:root:This is my error msg
+CRITICAL:root:This is my critical
+INFO:root:This is my info logging
+ERROR:root:This is my error msg
+CRITICAL:root:This is my critical
+INFO:root:This is my info logging
+ERROR:root:This is my error msg
+CRITICAL:root:This is my critical
+INFO:root:Log this line of execution
+INFO:root:This is my print
+WARNING:root:This is my warning message
+ERROR:root:This is my error
+CRITICAL:root:This is my critical
+INFO:root:This is my info logging
+ERROR:root:This is my error msg
+CRITICAL:root:This is my critical
+INFO:root:Log this line of execution
+INFO:root:This is my print
+WARNING:root:This is my warning message
+ERROR:root:This is my error
+CRITICAL:root:This is my critical
+INFO:root:This is my info logging
+ERROR:root:This is my error msg
+CRITICAL:root:This is my critical
+INFO:root:This is my info logging
+ERROR:root:This is my error msg
+CRITICAL:root:This is my critical
+INFO:root:Log this line of execution
+INFO:root:This is my print
+WARNING:root:This is my warning message
+ERROR:root:This is my error
+CRITICAL:root:This is my critical
+INFO:root:This is my info logging
+ERROR:root:This is my error msg
+CRITICAL:root:This is my critical
+INFO:root:This is my info logging
+ERROR:root:This is my error msg
+CRITICAL:root:This is my critical
+INFO:root:We are iterating through list and local varibale is i
+INFO:root:We are iterating through list and local varibale is i
+INFO:root:We are iterating through list and local varibale is i
+INFO:root:We are iterating through list and local varibale is i
+INFO:root:We are iterating through list and local varibale is i
+INFO:root:We are iterating through list and local varibale is i
+INFO:root:I am inside if statemneta nd i am trying to check list type
+INFO:root:I am in another for loop for list inside list element
+INFO:root:I am inside if staement
+INFO:root:I am in another for loop for list inside list element
+INFO:root:I am inside if staement
+INFO:root:I am in another for loop for list inside list element
+INFO:root:I am inside if staement
+INFO:root:We are iterating through list and local varibale is i
+INFO:root:We are iterating through list and local varibale is i
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:I am inside if statemneta nd i am trying to check list type
+INFO:root:I am in another for loop for list inside list element
+INFO:root:I am inside if staement
+INFO:root:I am in another for loop for list inside list element
+INFO:root:I am inside if staement
+INFO:root:I am in another for loop for list inside list element
+INFO:root:I am inside if staement
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:I am inside if statemneta nd i am trying to check list type[2, 3, 4]
+INFO:root:I am in another for loop for list inside list element2
+INFO:root:I am inside if staement
+INFO:root:I am in another for loop for list inside list element3
+INFO:root:I am inside if staement
+INFO:root:I am in another for loop for list inside list element4
+INFO:root:I am inside if staement
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:I am inside if statemneta nd i am trying to check list type[2, 3, 4]
+INFO:root:I am in another for loop for list inside list element2
+INFO:root:I am inside if staement
+INFO:root:I am in another for loop for list inside list element3
+INFO:root:I am inside if staement
+INFO:root:I am in another for loop for list inside list element4
+INFO:root:I am inside if staement
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:We are iterating through list and local varibale is i[1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:My final result for int is [1, 2, 3, 34, 4, 2, 3, 4] and str is ['sudh', 'kumar']
